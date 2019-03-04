@@ -19,7 +19,7 @@ Turkiye Student Evaluation Data
 
 Heights and Weights Data
 
-#1. Iris Data Set
+# 1. Iris Data Set
 
 This is probably the most versatile, easy and resourceful dataset in pattern recognition literature. 
 Nothing could be simpler than the Iris dataset to learn classification techniques. 
