@@ -19,6 +19,8 @@ Turkiye Student Evaluation Data
 
 Heights and Weights Data
 
+Google Food Trend
+
 # 1. Iris Data Set
 
 This is probably the most versatile, easy and resourceful dataset in pattern recognition literature. 
@@ -69,3 +71,33 @@ Property_Area : Urban/ Semi Urban/ Rural
 Loan_Status : Loan approved (Y/N)
 
 Solution : Loan_project
+
+# 3. Google-Food-Trend
+To analyze the food consuming pattern using google data
+
+This is a basic Tableau project to visualize Food consuming Pattern using Google data
+Insights :
+
+Most Liked Food
+Sushi is the most liked Food. 
+Out of the top 10 foods , Beer ,Tea and Coffee are most liked foods as these are consumed by the people worldwide
+About the graph: It shows the most liked food according to Google Food Trend. 
+Green Indicates most liked liked Food and red indicates least liked food. 
+
+Link : https://us-east-1.online.tableau.com/#/site/akshatakanumuri/views/FoodTrend/MostLikedFood?:iid=6
+
+Food Consuming Pattern over Years :
+
+Link : https://us-east-1.online.tableau.com/#/site/akshatakanumuri/views/FoodTrend/FoodConsumingpatternbyYear?:iid=7
+
+Insights :
+The food consumed pattern is increasing over years  possible reasons could be
+1. The adaptablity of internet/Goggle is increasing over years
+2. The varity of food consumed are increasing
+
+Food Consuming Pattern by Week :
+
+Link : https://us-east-1.online.tableau.com/#/site/akshatakanumuri/views/FoodTrend/FoodConsumingpatternbyweek?:iid=8
+
+Insights :
+The food consumed is relatively high in the last few weeks of the year this could be because of the holiday season.
