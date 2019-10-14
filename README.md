@@ -50,7 +50,12 @@ Property_Area : Urban/ Semi Urban/ Rural
 
 Loan_Status : Loan approved (Y/N)
 
-Solution : Loan_project
+Apporach : Developed a Random Forest Classifier with min/max feature scaling. Accuracy is evaluation metric used. As the data is not imbalanced we can use this as a evaluation metric for classification problem.
+
+Accuracy is 80.9%
+
+Solution : Loan_project.ipynb
+
 
 # 3. Google-Food-Trend
 To analyze the food consuming pattern using google data
