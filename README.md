@@ -1,5 +1,5 @@
-# Begineer-Level-Data-Science-Projects
-This Level has basic level regression, Classification and Visualization Projects
+# Data-Science-Projects
+This Level has basic level Regression, Classification and Visualization Projects
 
 # 1. Iris Data Set
 
